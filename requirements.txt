@@ -1,11 +1,7 @@
-name: analysis
-channels:
-  - conda-forge
-dependencies:
-  - pip
-  - uproot
-  - pandas
-  - numpy
-  - matplotlib
-  - sklearn
-  - tensorflow
+pip
+uproot
+pandas
+numpy
+matplotlib
+sklearn
+tensorflow
