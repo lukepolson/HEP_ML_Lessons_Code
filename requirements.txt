@@ -5,3 +5,4 @@ numpy
 matplotlib
 sklearn
 tensorflow
+kaggle
